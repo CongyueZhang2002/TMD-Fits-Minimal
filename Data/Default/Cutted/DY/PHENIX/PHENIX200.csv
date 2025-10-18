@@ -1,0 +1,2 @@
+qT_if_integrate,qT_mean,qT_min,qT_max,Q_if_integrate,Q_mean,Q_min,Q_max,y_if_integrate,y_mean,y_min,y_max,sqrts,isoscalarity,observable,if_fiducial,pT_min,eta_min,eta_max,xsec,error_unc_0,error_unc_1,error_add_0,error_mult_0 ,bin_integrate_factor
+True,0.25,0.0,0.5,True,6.5,4.8,8.2,True,1.7,1.2,2.2,200.0,1,dσ/dqT,False,0.0,-1000.0,1000.0,0.011975,0.003368,0.001741,0.001437,0.12,2.0

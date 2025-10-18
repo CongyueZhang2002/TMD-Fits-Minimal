@@ -1,0 +1,6 @@
+qT_if_integrate,qT_mean,qT_min,qT_max,Q_if_integrate,Q_mean,Q_min,Q_max,y_if_integrate,xf_mean,xf_min,xf_max,sqrts,isoscalarity,observable,if_fiducial,pT_min,eta_min,eta_max,xsec,error_unc_0,error_mult_0 ,bin_integrate_factor
+True,0.125,0.0,0.25,True,7.5,7.0,8.0,True,0.2,0.1,0.3,38.76,0.5,E*dσ/d3q(xf),False,0.0,-1000.0,1000.0,1.68,0.12,0.1,20.0
+True,0.375,0.25,0.5,True,7.5,7.0,8.0,True,0.2,0.1,0.3,38.76,0.5,E*dσ/d3q(xf),False,0.0,-1000.0,1000.0,1.16,0.051,0.1,20.0
+True,0.625,0.5,0.75,True,7.5,7.0,8.0,True,0.2,0.1,0.3,38.76,0.5,E*dσ/d3q(xf),False,0.0,-1000.0,1000.0,0.97,0.0362,0.1,20.0
+True,0.875,0.75,1.0,True,7.5,7.0,8.0,True,0.2,0.1,0.3,38.76,0.5,E*dσ/d3q(xf),False,0.0,-1000.0,1000.0,0.73,0.0278,0.1,20.0
+True,1.125,1.0,1.25,True,7.5,7.0,8.0,True,0.2,0.1,0.3,38.76,0.5,E*dσ/d3q(xf),False,0.0,-1000.0,1000.0,0.534,0.0224,0.1,20.0
